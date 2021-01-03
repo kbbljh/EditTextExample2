@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     String passwordInput;
 
     @Override
+    // git push test
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
